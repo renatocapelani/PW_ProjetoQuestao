@@ -9,3 +9,12 @@ $conexao = mysqli_connect($servidor, $User, $Senha);
 mysqli_select_db($conexao, $Banco);
 
 ?>
+
+
+
+
+git config --global user.name "renatocapelani"
+git config --global user.email "renato.capelani@hotmail.com"
+git commit -m "Primeiro Commit"                    
+git init
+git add .
